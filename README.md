@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/Linux-CC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<br>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=Hive&logoColor=white"/>
 
 - [Dacon] Daegu private 21th
 - [project] hnm site with recommend model
