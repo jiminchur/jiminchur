@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=black&height=150&section=header&text=JiMinChur&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiMinChur&fontSize=70&animation=twinkling)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
