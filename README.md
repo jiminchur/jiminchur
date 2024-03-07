@@ -11,8 +11,17 @@
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black"/>
 
-- [Dacon] Daegu private 21th
-- [project] hnm site with recommend model
+# [Dacon] Daegu private 21th
+- 2023.00.00 ~ 2023.00.00
+- [My Dacon Profile](https://dacon.io/myprofile/488728/home)
+# [mini_project_1] hnm site with recommend model
+- 2023.00.00 ~ 2023.00.00
+# [mini_project_2] bad_word filter & emotion model
+- 2024.00.00 ~ 2024.00.00  
+# [mini_project_3] my_smart_closet & recommend by weather, price, ..
+- 2024.00.00 ~ 2024.00.00
+
+
 
 <!---
 jiminchur/jiminchur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
