@@ -10,11 +10,11 @@
 <br>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black"/>
-### [깃허브 블로그](https://jiminchur.github.io/)
-### [DaconProfile](https://dacon.io/myprofile/488728/home)
-### [프로그래머스](https://programmers.co.kr/users/challenge-activity)
-### [백준]()
-### 프로젝트
+## [깃허브 블로그](https://jiminchur.github.io/)
+## [DaconProfile](https://dacon.io/myprofile/488728/home)
+## [프로그래머스](https://programmers.co.kr/users/challenge-activity)
+## [백준]()
+## 프로젝트
 * [HNM 사용자 구매정보 데이터로 추천시스템](https://github.com/jiminchur/Recommendation-System_User-Purchase-History)
   * 2023.11.09 ~ 2023.11.15
   * HNM의 사용자 구매정보 데이터로 사용자가 구매했던 상품들과 유사한 상품을 추천해주는 웹 사이트
