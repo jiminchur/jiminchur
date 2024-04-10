@@ -13,9 +13,15 @@
 
   
 ## [깃허브 블로그](https://jiminchur.github.io/)
+* 저의 학습내용과 이슈내용들을 정리한 블로그입니다.
 ## [DaconProfile](https://dacon.io/myprofile/488728/home)
+* 수상이력
+  * 대구 교통사고 피해 예측 AI 경진대회 (private 21등 / 전체 상위 3%)
 ## [프로그래머스](https://programmers.co.kr/users/challenge-activity)
+* 점수       :
+* 푼 문제 수  :
 ## [백준]()
+* 티어       :
 ## 프로젝트
 * [HNM 사용자 구매정보 데이터로 추천시스템](https://github.com/jiminchur/Recommendation-System_User-Purchase-History)
   * 2023.11.09 ~ 2023.11.15
