@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiMinChur&fontSize=70&animation=twinkling)
 
 <p align="center">
