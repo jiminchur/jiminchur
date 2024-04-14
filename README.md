@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=150&section=header" />
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiMinChur&fontSize=70&animation=twinkling)
 
@@ -35,7 +35,7 @@
   * 2024.02.19 ~ 2024.03.22
   * 사용자의 옷들을 사진을 찍어 웹에 저장하고 그 옷들이 어떤종류인지 분류해주는 모델이 알아서 옷장을 관리해주고 코디 추천까지 해주는 웹 사이트
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&height=150&section=footer" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiminchur&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
