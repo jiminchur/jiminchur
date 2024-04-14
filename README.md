@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=150&section=header" />
 
-<p align="center">
+<div align="center">
 
 **Hello 👋 , I'm Ji Min Chur**
 
@@ -8,6 +8,6 @@
 
 [![Github Blog](https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white)](https://jiminchur.github.io/)
 
-</p>
+</div>
 
 
