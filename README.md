@@ -6,7 +6,7 @@
 
 **visit my blog what i'm studying**
 
-[<img src="https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white" />](https://jiminchur.github.io/)
+[![Github Blog](https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white)](https://jiminchur.github.io/)
 
 </p>
 
