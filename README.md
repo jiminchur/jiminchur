@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&height=150&section=header" />
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiMinChur&fontSize=70&animation=twinkling)
 
