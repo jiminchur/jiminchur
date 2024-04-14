@@ -1,11 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=150&section=header" />
 
-Hello, I'm Ji Min Chur
+<p align="center">
 
-visit my blog what i'm studying
+**Hello 👋 , I'm Ji Min Chur**
 
-[Github Blog](https://jiminchur.github.io/)
+**visit my blog what i'm studying**
 
+[<img src="https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white" />](https://jiminchur.github.io/)
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=150&section=footer" />
 
