@@ -33,6 +33,7 @@
   * 2024.02.19 ~ 2024.03.22
   * 사용자의 옷들을 사진을 찍어 웹에 저장하고 그 옷들이 어떤종류인지 분류해주는 모델이 알아서 옷장을 관리해주고 코디 추천까지 해주는 웹 사이트
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jiminchur&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 <!---
 jiminchur/jiminchur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
