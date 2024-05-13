@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=150&section=header" />
-
 <div align="center">
 
 ### **Hello 👋 , I'm Ji Min Chur**
