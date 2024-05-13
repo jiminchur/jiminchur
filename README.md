@@ -7,7 +7,8 @@
 ### **🤖 Visit my Github Blog What i'm studying**
 
 ### [![Github Blog](https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white)](https://jiminchur.github.io/)
-
+<br>
+<br>
 ### 🧑‍🎓 Programmers
 [![](https://github.com/jiminchur/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 </div>
