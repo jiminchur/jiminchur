@@ -14,8 +14,8 @@
 ### 🧑‍🎓 Programmers
 [![](https://github.com/jiminchur/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 
-### Personal Projects
-### Team Projects
+### 🧑🏻‍💻 Personal Projects
+### 👬🏻 Team Projects
 </div>
 
 
