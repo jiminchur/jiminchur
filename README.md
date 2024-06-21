@@ -11,7 +11,6 @@
 
 ## 👬🏻 Team Projects
 <br>
-<br>
 
 ### 🚶🏻‍♂️‍➡️ PlayData DataEngineering Track 28 🚶🏻‍➡️
 <br>
