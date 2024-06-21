@@ -10,7 +10,12 @@
 <br>
 
 ## 👬🏻 Team Projects
+<br>
+<br>
+
 ### 🚶🏻‍♂️‍➡️ PlayData DataEngineering Track 28 🚶🏻‍➡️
+<br>
+
 ### 🚪 오늘모입지? - 스마트옷장프로젝트
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiminchur/PlayData-28_Smart-Closet) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mire-plastic-701.notion.site/bfc7f47b46834963bd43153fc36be358?pvs=4)
 ### 🤬 팀앤드(&) - 비속어 필터링 및 댓글 감정분석 모델
