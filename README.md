@@ -2,7 +2,6 @@
 <div align="center">
 
 ### Hello 👋 , I'm Ji Min Chur
-
 ### **🤖 Visit my Github Blog What i'm studying**
 
 
