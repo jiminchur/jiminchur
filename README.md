@@ -32,7 +32,3 @@
 ## 🧑‍🎓 Programmers
 [![](https://github.com/jiminchur/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 </div>
-
-| 제목  | 내용  |
-| 항목1 | 설명1 |
-| 항목2 | 설명2 |
