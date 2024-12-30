@@ -1,20 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ddd6f3&height=150&section=header" />
-<div align="center">
-
 ### Hello 👋 , I'm Ji Min Chur
 
 ### **🤖 Visit my Github Blog What i'm studying**
 
 ### [![Github Blog](https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white)](https://jiminchur.github.io/)
-<br>
-<br>
 
 ## 📕 Experience
 
-#### 🔴 스파르타코딩클럽 단기심화 Java 부트캠프 (2024.07.29 ~ 2024.10.25)
-#### 🔵 코멘토 데이터베이스(DB) 직무부트캠프 (2024.06.29 ~ 2024.07.27)
-#### 🟤 자료구조 & 알고리즘 스터디 (2024.06.25 ~ 2024.08.01)
-#### 🟣 플레이데이터 데이터 엔지니어링 코스 28기 (2023.09.25 ~ 2024.03.22)
+* 스파르타코딩클럽 단기심화 Java 부트캠프 (2024.07.29 ~ 2024.10.25)
+* 코멘토 데이터베이스(DB) 직무부트캠프 (2024.06.29 ~ 2024.07.27)
+* 자료구조 & 알고리즘 스터디 (2024.06.25 ~ 2024.08.01)
+* 플레이데이터 데이터 엔지니어링 코스 28기 (2023.09.25 ~ 2024.03.22)
 
 
 ## 👬🏻 Team Projects
@@ -29,6 +24,6 @@
 
 ## 🧑‍🎓 Programmers
 [![](https://github.com/jiminchur/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
-</div>
+
 
 
