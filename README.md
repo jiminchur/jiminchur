@@ -13,14 +13,14 @@
 
 
 ## 👬🏻 Team Projects
-|팀 이름|프로젝트 이름|프로젝트 기간|Github 링크|Notion 링크|
-|---------|---------|---------|---------|---------|
-|📦 COOPANG|B2C 대규모 물류 플랫폼|24.09.24~24.10.25|[Project_COOPANG](https://github.com/dev-wonny/coopang)||
-|📄 J에게|B2B 물류 플랫폼|24.09.04~24.09.23|[Project_ForJJJ](https://github.com/ForJJJ/DeliverySystem)||
-|✋ Ohteam|주문 배달 플랫폼|24.08.22~24.09.03|[Project_FoodToGoWeb](https://github.com/jiminchur/Project_FoodToGoWeb)||
-|🚪 오늘모입지?|스마트옷장프로젝트|24.02.19~24.03.22|[PlayData-28_Smart-Closet](https://github.com/jiminchur/PlayData-28_Smart-Closet)|[Notion](https://mire-plastic-701.notion.site/bfc7f47b46834963bd43153fc36be358?pvs=4)|
-|🤬 팀앤드(&)|비속어 필터링 및 댓글 감정분석 모델|24.01.23~24.01.26|[PlayData-28_Badword-filter-Sentiment-analysis](https://github.com/jiminchur/PlayData-28_Badword-filter-Sentiment-analysis)|[Notion](https://mire-plastic-701.notion.site/1dc226e8604448f9b38136f7ada75bba?pvs=4)|
-|🛍️ 팀앤드(&)|HNM 사용자 구매내역 데이터 기반 추천시스템|23.11.09~23.11.15|[PlayData-28_HNMdata-Recommendation-Website](https://github.com/jiminchur/PlayData-28_HNMdata-Recommendation-Website)||
+|팀 이름|프로젝트 이름|프로젝트 기간|Github 링크|
+|---------|---------|---------|---------|
+|📦 Coopang|B2C 대규모 물류 플랫폼|24.09.24~24.10.25|[Project_COOPANG](https://github.com/dev-wonny/coopang)|
+|📄 J에게|B2B 물류 플랫폼|24.09.04~24.09.23|[Project_ForJJJ](https://github.com/ForJJJ/DeliverySystem)|
+|✋ Ohteam|주문 배달 플랫폼|24.08.22~24.09.03|[Project_FoodToGoWeb](https://github.com/jiminchur/Project_FoodToGoWeb)|
+|🚪 오늘모입지?|스마트옷장프로젝트|24.02.19~24.03.22|[PlayData-28_Smart-Closet](https://github.com/jiminchur/PlayData-28_Smart-Closet)|
+|🤬 팀앤드(&)|비속어 필터링 및 댓글 감정분석 모델|24.01.23~24.01.26|[PlayData-28_Badword-filter-Sentiment-analysis](https://github.com/jiminchur/PlayData-28_Badword-filter-Sentiment-analysis)|
+|🛍️ 팀앤드(&)|HNM 사용자 구매내역 데이터 기반 추천시스템|23.11.09~23.11.15|[PlayData-28_HNMdata-Recommendation-Website](https://github.com/jiminchur/PlayData-28_HNMdata-Recommendation-Website)|
 
 ## 🧑‍🎓 Programmers
 [![](https://github.com/jiminchur/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
