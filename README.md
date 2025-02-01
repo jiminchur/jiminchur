@@ -5,7 +5,6 @@
 ### [![Github Blog](https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white)](https://jiminchur.github.io/)
 
 ## 📕 Experience
-
 * 스파르타코딩클럽 단기심화 Java 부트캠프 (2024.07.29 ~ 2024.10.25)
 * 코멘토 데이터베이스(DB) 직무부트캠프 (2024.06.29 ~ 2024.07.27)
 * 자료구조 & 알고리즘 스터디 (2024.06.25 ~ 2024.08.01)
