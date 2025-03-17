@@ -5,6 +5,7 @@
 ### [![Github Blog](https://img.shields.io/badge/Github_Blog-8B89CC?style=for-the-badge&logo=About.me&logoColor=white)](https://jiminchur.github.io/)
 
 ## 📕 Experience
+* `25.03.17 ~ 진행중` : 이어드림스쿨 5기
 * `24.07.29 ~ 24.10.25` : 스파르타코딩클럽 단기심화 Java 부트캠프
 * `24.06.29 ~ 24.07.27` : 코멘토 데이터베이스(DB) 직무부트캠프
 * `24.06.25 ~ 24.08.01` : 자료구조 & 알고리즘 스터디
