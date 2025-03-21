@@ -29,4 +29,7 @@
 [![](https://github.com/jiminchur/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jiminchur?pet-id=1" width="1000" height="120"/>
+</a>
 
