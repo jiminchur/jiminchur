@@ -11,8 +11,8 @@
 * `23.09.25~24.03.22` : 📖 플레이데이터 데이터 엔지니어링 코스 28기
 
 ### 🧑🏻‍💻 Personal Projects
-* `23.12.11~00.00.00` : 📰 v3.0.0 Github Blog **minchur-Gatsby-theme** ([link](https://github.com/jiminchur/jiminchur.github.io)) 🔥
-* `25.01.06~25.02.28` : 📅 데이터엔지니어 채용공고 데일리 스크랩 자동화 to Notion ([link](https://github.com/jiminchur/Job-scraper_to_Notion)) ✍️
+* `23.12.11~00.00.00` : 📰 (v3.0.0) Github Blog **minchur-Gatsby-theme** ([link](https://github.com/jiminchur/jiminchur.github.io)) 🔥
+* `25.01.06~25.02.28` : 📅 (v1.0.0) 데이터엔지니어 채용공고 데일리 스크랩 자동화 to Notion ([link](https://github.com/jiminchur/Job-scraper_to_Notion)) ✍️
 
 ### 👬🏻 Team Projects
 * `24.09.24~24.10.25` : 📦 Coopang - B2C 대규모 물류 플랫폼 ([link](https://github.com/dev-wonny/coopang))
