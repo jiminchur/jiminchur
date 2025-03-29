@@ -12,7 +12,7 @@
 
 ### 🧑🏻‍💻 Personal Projects
 * `23.12.11~00.00.00` : 📰 v3.0.0 Github Blog **minchur-Gatsby-theme** ([link](https://github.com/jiminchur/jiminchur.github.io)) 🔥
-* `25.01.06~25.02.28` : 📅 IT직무 채용공고 크롤링 알바 ([link](https://github.com/jiminchur/job-scraper)) ✍️
+* `25.01.06~25.02.28` : 📅 데이터엔지니어 채용공고 데일리 스크랩 자동화 to Notion ([link](https://github.com/jiminchur/Job-scraper_to_Notion)) ✍️
 
 ### 👬🏻 Team Projects
 * `24.09.24~24.10.25` : 📦 Coopang - B2C 대규모 물류 플랫폼 ([link](https://github.com/dev-wonny/coopang))
