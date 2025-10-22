@@ -5,7 +5,7 @@
 ---
 
 ### 📕 Experience
-* `2025.03.17 ~ 2025.08.14` : 📖 **Eardream School 5th Cohort** (Early Graduation)
+* `2025.03.17 ~ 2025.08.14` : 📖 **Yearream School 5th Cohort** (Early Graduation)
 * `2024.07.29 ~ 2024.10.25` : 📖 **Sparta Coding Club - Intensive Java Bootcamp**
 * `2024.06.29 ~ 2024.07.27` : 📖 **Comento - Database Specialist Bootcamp**
 * `2023.09.25 ~ 2024.03.22` : 📖 **PlayData - Data Engineering Course (28th Cohort)**
